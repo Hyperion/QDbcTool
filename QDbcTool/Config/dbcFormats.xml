@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE DBC>
+<!DOCTYPE DBCFiles>
 <DBCFiles>
  <AreaTable build="5785_6005">
   <field type="uint" name="Id"/>
