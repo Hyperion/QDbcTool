@@ -4,3 +4,5 @@
 build*
 QDbcTool/QDbcTool.pro.user
 .idea
+/cmake-build-debug/
+/CMakeFiles/
